@@ -1,0 +1,13 @@
+{
+    "partsOfSpeech": {
+        "name" : "Name (Male/Female)",
+        "name-male" : "Name (Male)",
+        "place" : "Place (e.g. Antarctica)", 
+        "verb-past" : "Verb (e.g. cooked)", 
+        "noun-plural" : "Noun (e.g. houses)", 
+        "transitive-verb" : "Transitive Verb (e.g. cook)", 
+        "noun" : "Noun (e.g. hen)", 
+        "noun-drinkable" : "Drinkable Object"
+    }, 
+    "text": "[1:name-male], of [2:place], had [3:verb-past] the [4:noun-plural] for the night, but was too drunk to remember to [5:transitive-verb] the [6:noun]. With the [7:noun] from his [8:noun] dancing from side to side, he [9:verb-past] across [10:place], kicked off his [11:noun] at the back door, drew himself a last glass of [12:noun-drinkable] from the barrel in [13:place], and made his way up to bed, where [14:name] was already snoring."
+}

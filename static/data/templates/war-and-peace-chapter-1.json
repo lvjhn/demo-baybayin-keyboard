@@ -1,0 +1,12 @@
+{
+    "partsOfSpeech": {        
+        "noun" : "Noun", 
+        "place" : "Place (e.g. Antarctica)", 
+        "verb-past" : "Verb (e.g. cooked)", 
+        "name" : "Name", 
+        "color" : "Color", 
+        "number" : "Number", 
+        "adjective" : "Adjective"
+    }, 
+    "text": "Then came the night of the first falling [1:noun]. It was seen early in the morning, rushing over [2:place] eastward, a line of flame high in the atmosphere. Hundreds must have [3:verb-past] it, and taken it for an ordinary falling [1:noun]. [4:name] described it as leaving a [5:color] streak behind it that glowed for [6:number] seconds. [7:name], our [8:adjective] authority on [1:noun], stated that the height of its first appearance was about ninety or one hundred miles. It seemed to him that it [9:verb-past] earth about one hundred miles east of him."
+}
